@@ -1,2 +1,2 @@
 FROM debian:stretch
-MAINTAINER mfunesd
+MAINTAINER mfunesdm
